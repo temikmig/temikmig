@@ -1,27 +1,26 @@
-# Артемий Мигдалович
+# Артемий Мигдалович - Front-end разработчик
 
-**Front-end разработчик**
-
-Работаю над масштабируемыми корпоративными интерфейсами и современными веб-приложениями. Имею опыт работы с крупными проектами: desktop + mobile, workflow, бизнес-логика и адаптивный UI.
+_Работаю над масштабируемыми корпоративными интерфейсами и современными веб-приложениями. Имею опыт работы с крупными проектами: desktop + mobile, workflow, бизнес-логика и адаптивный UI_
 
 ---
 
 ## Стек технологий
 
-### FrontEnd
+### Front-end
 
 <p align="left"> <!-- Frontend --> 
 <img src="https://img.shields.io/badge/React-Advanced-61dafb?style=for-the-badge&logo=react&logoColor=white" /> 
 <img src="https://img.shields.io/badge/TypeScript-Advanced-3178c6?style=for-the-badge&logo=typescript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Redux%20Toolkit-Advanced-764abc?style=for-the-badge&logo=redux&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MUI-Intermediate-007fff?style=for-the-badge&logo=mui&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Styled%20Components-Intermediate-db7093?style=for-the-badge&logo=styledcomponents&logoColor=white" />
- <img src="https://img.shields.io/badge/FSD-Intermediate-ff6f61?style=for-the-badge" /> 
  <img src="https://img.shields.io/badge/HTML5-Advanced-e34f26?style=for-the-badge&logo=html5&logoColor=white" /> 
  <img src="https://img.shields.io/badge/CSS3-Advanced-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/MUI-Intermediate-007fff?style=for-the-badge&logo=mui&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Styled%20Components-Intermediate-db7093?style=for-the-badge&logo=styledcomponents&logoColor=white" />
+ <img src="https://img.shields.io/badge/FSD-Intermediate-ff6f61?style=for-the-badge" />
+
  </p>
 
-### BackEnd
+### Back-end
 
  <p align="left">
   <img src="https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white" /> 
