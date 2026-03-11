@@ -40,7 +40,7 @@
   <img src="./screenshots/hero-redline.jpg" width="600"/>
 </p>
 
-- Front-end для управления услугами, чек-листами, учётом товаров склада и workflow сотрудников.
+_Пользовательский интерфейс корпоративной системы управления для RedLine - премиального автодетейлинга г. Тюмени_
 
 [Смотреть README проекта](https://github.com/temikmig/mysmit_front_public)
 
@@ -60,7 +60,7 @@
   <img src="./screenshots/screen_migd.png" width="600"/>
 </p>
 
-- Интерактивная OS на React с множеством окон и настраиваемым UI.
+_Интерактивный симулятор операционной системы, созданный на React.js_
 
 [Смотреть README проекта](https://github.com/temikmig/migd-os)
 
