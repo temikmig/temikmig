@@ -18,7 +18,7 @@ _Работаю над масштабируемыми корпоративным
 
 ### Front-end
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/React-Advanced-61dafb?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-Advanced-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux%20Toolkit-Advanced-764abc?style=for-the-badge&logo=redux&logoColor=white" />
@@ -31,17 +31,26 @@ _Работаю над масштабируемыми корпоративным
 
 ### Back-end / Базы данных
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-Intermediate-777bb4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-Intermediate-0c344b?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/OracleSQL-Intermediate-ff0000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temikmig&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=temikmig&show_icons=true&count_private=true&theme=radical" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temikmig&layout=compact&theme=radical" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=temikmig&theme=radical" width="840"/>
 </p>
 
 ---
