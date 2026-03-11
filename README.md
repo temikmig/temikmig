@@ -42,7 +42,7 @@ _Работаю над масштабируемыми корпоративным
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=temikmig&theme=radical" width="840"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=temikmig&theme=radical" />
 </p>
 
 ---
