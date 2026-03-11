@@ -1,9 +1,60 @@
-## Hi there 👋
+# Артемий Мигдалович
 
-👋 Меня зовут Тёма и я — Frontend-разработчик, специализирующийся на создании пользовательских интерфейсов с использованием React.js. 🌟
+**Front-end разработчик | React, TypeScript, Redux Toolkit, MUI, FSD**
 
-🔧 Стек: TS, React, Redux, JS, HTML5, CSS3  
+Создаю масштабируемые корпоративные интерфейсы и современные веб-приложения. Опыт работы с крупными проектами: desktop + mobile, workflow, бизнес-логика и адаптивный UI.
 
-🚀 Разрабатываю эффективные и отзывчивые веб-приложения. 
-🌱 Постоянно обучаюсь и следую за последними трендами в экосистеме React.
-📂 Ознакомьтесь с моими проектами ниже!
+---
+
+## 🔹 Стек технологий
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-20232A?style=for-the-badge&logo=redux" />
+  <img src="https://img.shields.io/badge/MUI-20232A?style=for-the-badge&logo=mui" />
+  <img src="https://img.shields.io/badge/Styled%20Components-20232A?style=for-the-badge&logo=styledcomponents" />
+  <img src="https://img.shields.io/badge/FSD-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3" />
+</p>
+
+---
+
+## 🚀 Основные проекты
+
+### mySmit – система управления для RedLine
+<p align="center">
+  <img src="./screenshots/hero-redline.jpg" width="600"/>
+</p>
+**Описание:** Front-end для управления услугами, чек-листами, учётом товаров склада и workflow сотрудников.  
+**Технологии:** React, TypeScript, Redux Toolkit, MUI, Styled Components, FSD  
+[Смотреть README проекта](https://github.com/temikmig/mySmit)
+
+---
+
+### Migd-OS – симулятор операционной системы
+<p align="center">
+  <img src="./screenshots/desktop.png" width="600"/>
+</p>
+**Описание:** Интерактивная OS на React с множеством окон и настраиваемым UI.  
+**Технологии:** React, TypeScript, HTML, CSS  
+[Смотреть README проекта](https://github.com/temikmig/migd-os)
+
+---
+
+## 🌟 Профессиональные навыки
+
+- Разработка масштабируемых front-end решений для корпоративных систем  
+- Создание адаптивных интерфейсов desktop и mobile  
+- Организация структуры проекта и модульной архитектуры с FSD  
+- Интеграция с REST / GraphQL API  
+- Внимание к UX, workflow и визуальной составляющей  
+
+---
+
+## 📫 Контакты
+
+- Telegram: [@temikmig](https://t.me/temikmig)  
+- Email: temikmig@example.com  
+- LinkedIn: [Артемий Мигдалович](https://www.linkedin.com/in/temikmig)
