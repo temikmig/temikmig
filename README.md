@@ -77,7 +77,7 @@ _Пользовательский интерфейс корпоративной 
   <img src="./screenshots/screen_migd.png" width="600"/>
 </p>
 
-_Интерактивный симулятор операционной системы, созданный на React.js_
+_Интерактивный симулятор операционной системы, созданный на React_
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
