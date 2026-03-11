@@ -1,5 +1,7 @@
 # Артемий Мигдалович – Front-end разработчик
 
+![](https://visitor-badge.laobi.icu/badge?page_id=temikmig.temikmig)
+
 _Работаю над масштабируемыми корпоративными интерфейсами и современными веб-приложениями. Имею опыт работы с крупными проектами: desktop + mobile, workflow, бизнес-логика и адаптивный UI._
 
 ---
@@ -42,7 +44,7 @@ _Работаю над масштабируемыми корпоративным
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=temikmig&theme=radical" />
+  <img src="https://ghchart.rshah.org/temikmig" />
 </p>
 
 ---
