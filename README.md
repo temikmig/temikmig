@@ -1,6 +1,10 @@
 # Артемий Мигдалович – Front-end разработчик
 
+<p align="right">
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=temikmig.temikmig)
+
+</p>
 
 _Работаю над масштабируемыми корпоративными интерфейсами и современными веб-приложениями. Имею опыт работы с крупными проектами: desktop + mobile, workflow, бизнес-логика и адаптивный UI._
 
@@ -41,12 +45,6 @@ _Работаю над масштабируемыми корпоративным
   <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/temikmig" />
-</p>
-
 ---
 
 ## Основные проекты
@@ -54,8 +52,9 @@ _Работаю над масштабируемыми корпоративным
 ### mySmit – система управления для RedLine
 
 <p align="center">
-  <img src="./screenshots/hero-redline.jpg" width="600"/>
+  <img src="./screenshots/screen-mysmit.jpg" width="600"/>
 </p>
+
 _Пользовательский интерфейс корпоративной системы управления для **RedLine** – премиального автодетейлинга г. Тюмени._
 
 **Технологии:** React, TypeScript, Redux Toolkit, MUI, Styled Components, FSD  
@@ -68,6 +67,7 @@ _Пользовательский интерфейс корпоративной 
 <p align="center">
   <img src="./screenshots/screen_migd.png" width="600"/>
 </p>
+
 _Интерактивный симулятор операционной системы, созданный на React.js_
 
 **Технологии:** React, TypeScript, Redux, HTML5, CSS3  
