@@ -26,12 +26,6 @@
 ### mySmit – система управления для RedLine
 
 <p align="left">
-  <img src="./screenshots/hero-redline.jpg" width="600"/>
-</p>
-
-Front-end для управления услугами, чек-листами, учётом товаров склада и workflow сотрудников.
-
-<p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Redux%20Toolkit-20232A?style=for-the-badge&logo=redux" />
@@ -42,17 +36,17 @@ Front-end для управления услугами, чек-листами, �
   <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3" />
 </p>
 
+<p align="left">
+  <img src="./screenshots/hero-redline.jpg" width="600"/>
+</p>
+
+- Front-end для управления услугами, чек-листами, учётом товаров склада и workflow сотрудников.
+
 [Смотреть README проекта](https://github.com/temikmig/mysmit_front_public)
 
 ---
 
 ### Migd-OS – симулятор операционной системы
-
-<p align="left">
-  <img src="./screenshots/screen_migd.png" width="600"/>
-</p>
-
-Интерактивная OS на React с множеством окон и настраиваемым UI.
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
@@ -61,6 +55,12 @@ Front-end для управления услугами, чек-листами, �
   <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3" />
 </p>
+
+<p align="left">
+  <img src="./screenshots/screen_migd.png" width="600"/>
+</p>
+
+- Интерактивная OS на React с множеством окон и настраиваемым UI.
 
 [Смотреть README проекта](https://github.com/temikmig/migd-os)
 
