@@ -7,9 +7,6 @@ _Работаю над масштабируемыми корпоративным
 ## Стек технологий
 
 <div style="display: flex; align-items: flex-start; gap: 12px">
-<div>
-### Front-end
-
 <p align="left"> <!-- Frontend --> 
 <img src="https://img.shields.io/badge/React-Advanced-61dafb?style=for-the-badge&logo=react&logoColor=white" /> 
 <img src="https://img.shields.io/badge/TypeScript-Advanced-3178c6?style=for-the-badge&logo=typescript&logoColor=white" /> 
@@ -21,9 +18,6 @@ _Работаю над масштабируемыми корпоративным
  <img src="https://img.shields.io/badge/FSD-Intermediate-ff6f61?style=for-the-badge" />
 
  </p>
-
-### Back-end
-
  <p align="left">
   <img src="https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white" /> 
   <img src="https://img.shields.io/badge/PHP-Intermediate-777bb4?style=for-the-badge&logo=php&logoColor=white" /> 
