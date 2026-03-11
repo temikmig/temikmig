@@ -42,14 +42,6 @@ _Работаю над масштабируемыми корпоративным
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=temikmig&show_icons=true&count_private=true&theme=radical" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temikmig&layout=compact&theme=radical" width="420"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=temikmig&theme=radical" width="840"/>
 </p>
 
