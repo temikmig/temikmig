@@ -14,19 +14,30 @@ _Работаю над масштабируемыми корпоративным
 
 ---
 
-## 🔹 Стек технологий
+## Стек технологий
 
-| Front-end                                                                                                                              | Уровень      | Back-end / DB                                                                                                               | Уровень      |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| <img src="https://img.shields.io/badge/React-React-61dafb?style=for-the-badge&logo=react&logoColor=white" />                           | Advanced     | <img src="https://img.shields.io/badge/Node.js-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />          | Intermediate |
-| <img src="https://img.shields.io/badge/TypeScript-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />            | Advanced     | <img src="https://img.shields.io/badge/PHP-PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" />                      | Intermediate |
-| <img src="https://img.shields.io/badge/Redux%20Toolkit-Redux-764abc?style=for-the-badge&logo=redux&logoColor=white" />                 | Advanced     | <img src="https://img.shields.io/badge/Prisma-Prisma-0c344b?style=for-the-badge&logo=prisma&logoColor=white" />             | Intermediate |
-| <img src="https://img.shields.io/badge/HTML5-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />                           | Advanced     | <img src="https://img.shields.io/badge/OracleSQL-Oracle-ff0000?style=for-the-badge&logo=oracle&logoColor=white" />          | Intermediate |
-| <img src="https://img.shields.io/badge/CSS3-CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />                              | Advanced     | <img src="https://img.shields.io/badge/PostgreSQL-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> | Intermediate |
-| <img src="https://img.shields.io/badge/MUI-MUI-007fff?style=for-the-badge&logo=mui&logoColor=white" />                                 | Intermediate |                                                                                                                             |              |
-| <img src="https://img.shields.io/badge/Styled%20Components-Styled-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" /> | Intermediate |                                                                                                                             |              |
-| <img src="https://img.shields.io/badge/FSD-FSD-ff6f61?style=for-the-badge" />                                                          | Intermediate |                                                                                                                             |              |
+### Front-end
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Advanced-61dafb?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-Advanced-764abc?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-Advanced-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Advanced-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-Intermediate-007fff?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled%20Components-Intermediate-db7093?style=for-the-badge&logo=styledcomponents&logoColor=white" />
+  <img src="https://img.shields.io/badge/FSD-Intermediate-ff6f61?style=for-the-badge" />
+</p>
+
+### Back-end / Базы данных
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-Intermediate-777bb4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-Intermediate-0c344b?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/OracleSQL-Intermediate-ff0000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 ## GitHub Stats
 
 <p align="center">
