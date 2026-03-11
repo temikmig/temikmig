@@ -1,9 +1,7 @@
 # Артемий Мигдалович – Front-end разработчик
 
 <p align="right">
-
-![](https://visitor-badge.laobi.icu/badge?page_id=temikmig.temikmig)
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=temikmig.temikmig" />
 </p>
 
 _Работаю над масштабируемыми корпоративными интерфейсами и современными веб-приложениями. Имею опыт работы с крупными проектами: desktop + mobile, workflow, бизнес-логика и адаптивный UI._
@@ -12,11 +10,12 @@ _Работаю над масштабируемыми корпоративным
 
 ## Профессиональные навыки
 
-- Разработка масштабируемых front-end решений для корпоративных систем
-- Создание адаптивных интерфейсов desktop и mobile
-- Организация структуры проекта и модульной архитектуры с FSD
+- Разработка сложных пользовательских интерфейсов на **React + TypeScript**
+- Построение масштабируемой архитектуры фронтенд-приложений (Feature-Sliced Design)
+- Управление состоянием приложения с использованием **Redux Toolkit**
+- Создание адаптивных интерфейсов для **desktop и mobile**
 - Интеграция с REST / GraphQL API
-- Внимание к UX, workflow и визуальной составляющей
+- Проектирование UX и бизнес-workflow в корпоративных системах
 
 ---
 
@@ -49,15 +48,25 @@ _Работаю над масштабируемыми корпоративным
 
 ## Основные проекты
 
-### mySmit – система управления для RedLine
+### mySmit – корпоративная система учета и управления для RedLine
 
 <p align="center">
   <img src="./screenshots/screen-mysmit.jpg" width="600"/>
 </p>
 
-_Пользовательский интерфейс корпоративной системы управления для **RedLine** – премиального автодетейлинга г. Тюмени._
+_Пользовательский интерфейс корпоративной системы управления для **Премиального автодетейлинга RedLine г. Тюмень**_
 
-**Технологии:** React, TypeScript, Redux Toolkit, MUI, Styled Components, FSD  
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-20232A?style=for-the-badge&logo=redux" />
+  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Styled%20Components-20232A?style=for-the-badge&logo=styledcomponents" />
+  <img src="https://img.shields.io/badge/MUI-20232A?style=for-the-badge&logo=mui" />
+  <img src="https://img.shields.io/badge/FSD-20232A?style=for-the-badge" />
+</p>
+
 [Смотреть README проекта](https://github.com/temikmig/mysmit_front_public)
 
 ---
@@ -70,7 +79,14 @@ _Пользовательский интерфейс корпоративной 
 
 _Интерактивный симулятор операционной системы, созданный на React.js_
 
-**Технологии:** React, TypeScript, Redux, HTML5, CSS3  
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux" />
+  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3" />
+</p>
+
 [Смотреть README проекта](https://github.com/temikmig/migd-os)
 
 ---
