@@ -1,4 +1,4 @@
-# Артемий Мигдалович – Front-end разработчик
+# Артемий Мигдалович – Front-end разработчик с навыками Backend
 
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=temikmig.temikmig" />
@@ -11,7 +11,7 @@ _Работаю над масштабируемыми корпоративным
 ## Профессиональные навыки
 
 - Разработка сложных пользовательских интерфейсов на **React + TypeScript**
-- Построение масштабируемой архитектуры фронтенд-приложений (Feature-Sliced Design)
+- Построение масштабируемой архитектуры frontend-приложений (Feature-Sliced Design)
 - Управление состоянием приложения с использованием **Redux Toolkit**
 - Создание адаптивных интерфейсов для **desktop и mobile**
 - Интеграция с REST / GraphQL API
@@ -21,7 +21,7 @@ _Работаю над масштабируемыми корпоративным
 
 ## Стек технологий
 
-### Front-end
+### Frontend
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-Advanced-61dafb?style=for-the-badge&logo=react&logoColor=white" />
@@ -34,7 +34,7 @@ _Работаю над масштабируемыми корпоративным
   <img src="https://img.shields.io/badge/FSD-Intermediate-ff6f61?style=for-the-badge" />
 </p>
 
-### Back-end / Базы данных
+### Backend / Базы данных
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -51,7 +51,7 @@ _Работаю над масштабируемыми корпоративным
 ### mySmit – корпоративная система учета и управления для RedLine
 
 <p align="center">
-  <img src="./screenshots/screen-mysmit.jpg" width="600"/>
+  <img src="./screenshots/screen-mysmit.png" width="600"/>
 </p>
 
 _Пользовательский интерфейс корпоративной системы управления для **Премиального автодетейлинга RedLine г. Тюмень**_
