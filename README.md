@@ -53,6 +53,8 @@ _Работаю над масштабируемыми корпоративным
 <p align="center">
   <img src="./screenshots/screen-mysmit.png" width="400"/>
   <img src="./screenshots/screen-mysmit2.png" width="400"/>
+  <img src="./screenshots/screen-mysmit3.png" width="400"/>
+  <img src="./screenshots/screen-mysmit4.png" width="400"/>
 </p>
 
 _Пользовательский интерфейс корпоративной системы управления для **Премиального автодетейлинга RedLine г. Тюмень**_
