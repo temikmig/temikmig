@@ -77,7 +77,7 @@ _Пользовательский интерфейс корпоративной 
 ### Migd-OS – симулятор операционной системы
 
 <p align="center">
-  <img src="./screenshots/screen_migd.png" width="600"/>
+  <img src="./screenshots/migd_demo.gif" width="600"/>
 </p>
 
 _Интерактивный симулятор операционной системы, созданный на React_
