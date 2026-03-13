@@ -74,7 +74,7 @@ _Пользовательский интерфейс корпоративной 
 
 ---
 
-### Migd-OS – симулятор операционной системы
+### migdOS – симулятор операционной системы
 
 <p align="center">
   <img src="./screenshots/migd_demo.gif" width="600"/>
@@ -91,6 +91,8 @@ _Интерактивный симулятор операционной сист
 </p>
 
 [Смотреть README проекта](https://github.com/temikmig/migd-os)
+
+[Попробовать онлайн](https://temikmig.github.io/migd-os)
 
 ---
 
